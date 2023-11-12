@@ -1,0 +1,47 @@
+---
+title: "Data Science 4"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+**Explorative Datenanalyse & Data Mining (BIO-06.61-035)**
+
+
+## Modulbeschreibung <img src="images/uhh_logo.png" align="right" width="150" style="margin-left: 20px"/>
+
+Dies ist das letzte von vier Modulen des neu in den Bachelor-Studiengängen des Fachbereichs **Biologie** der **Universität Hamburg** eingeführten Data Science Programms. *Data Science 4* werden wir von dem experimentellen Design und der Analyse kleinerer Datensätze zur explorativen Analyse größerer Datensätze mittels statistischer Modellverfahren und dem sog. Data Mining übergehen.
+
+
+Modulverantwortliche: **Dr. Saskia Otto**
+
+## Vorlesungsfolien WiSe 2023-2024
+
+Diese GitHub Repository enthält die folgenden Kurs-spezifischen HTML-Vorlesungsfolien (alle auf Deutsch):
+
+- 01 [Komplexere Varianzanalyse und verbreitete Designtypen](https://saskiaotto.github.io/uham-bio-data-science-4/01-common-design-and-anova.html#/title-slide)
+- 02 [2-faktorielle Varianzanalyse (ANOVA) & Kovarianzanalyse (ANCOVA)](https://saskiaotto.github.io/uham-bio-data-science-4/02-anova-II-and-ancova.html#/title-slide)
+- 03 [Multiple lineare Regression und Modellselektion](https://saskiaotto.github.io/uham-bio-data-science-4/03-multiple-regression.html#/title-slide)
+- 04 [Entscheidungsbäume für Regressions- und Klassifikationsverfahren](https://saskiaotto.github.io/uham-bio-data-science-4/04-trees.html#/title-slide)
+- 05 [Permutation und Resampling](https://saskiaotto.github.io/uham-bio-data-science-4/05-resampling-and-eda.html#/title-slide)
+- 06 [Konzepte des 'Open Science' & Einführung in RMarkdown und Quarto](https://saskiaotto.github.io/uham-bio-data-science-4/06-open-science.html#/title-slide)
+
+*-WEIHNACHTSFERIEN-*
+
+- 07 [Logistische Regression als binäres Klassifikationsverfahren](https://saskiaotto.github.io/uham-bio-data-science-4/07-logistic-regression.html#/title-slide)
+- 08 [Multivariate Verfahren: Clusteranalyse und Ordination](https://saskiaotto.github.io/uham-bio-data-science-4/08-multivariate-stats.html#/title-slide)
+- 09 [Datenbanken und Abgreifen von Sekundärdaten in R](https://saskiaotto.github.io/uham-bio-data-science-4/09-data-bases.html#1)
+- 10 [Fallbeispiele](https://saskiaotto.github.io/uham-bio-data-science-4/10-synthesis-examples.html#/title-slide)
+
+
+## Lizenz
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
+  <img alt="Creative Commons License" style="border-width:0"
+        src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" />
+</a>
+
+Diese Arbeit is lizenziert unter einer [Creative Commons Attribution-ShareAlike 4.0 International License ](http://creativecommons.org/licenses/by-sa/4.0/) mit Ausnahme der entliehenen und mit Quellenangabe versehenen Abbildungen.
