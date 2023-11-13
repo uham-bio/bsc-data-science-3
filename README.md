@@ -1,11 +1,11 @@
-Data Science 4 - Exploratory Data Analysis & Data Mining
+Data Science 3 - Exploratory Data Analysis & Data Mining
 ================
 
 ## Module description <img src="images/uhh_logo.png" align="right" width="150" style="margin-left: 20px"/>
 
-This is last of four modules in the data science program newly
+This is third out of four modules in the data science program newly
 introduced into the Bachelor Programs of the **Biology Department,
-University of Hamburg**. *Data Science 4* introduces students into the
+University of Hamburg**. *Data Science 3* introduces students into the
 world of statistical modelling of typically secondary bigger data sets.
 
 Course creator and instructor: **Dr. Saskia Otto**
@@ -18,7 +18,7 @@ and Quarto using templates from the
 [UHHformats](https://github.com/uham-bio/UHHformats) package.
 
 The URL for the lecture slides is:
-<https://saskiaotto.github.io/uham-bio-data-science-4/>
+<https://saskiaotto.github.io/uham-bio-data-science-3/>
 
 ## License
 
