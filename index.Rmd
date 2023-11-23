@@ -23,8 +23,8 @@ Modulverantwortliche: **Dr. Saskia Otto**
 Diese GitHub Repository enthält die folgenden Kurs-spezifischen HTML-Vorlesungsfolien (alle auf Deutsch):
 
 - 01 [Komplexere Varianzanalyse und verbreitete Designtypen](https://saskiaotto.github.io/uham-bio-data-science-3/01-common-design-and-anova.html#/title-slide)
-- 02 [2-faktorielle Varianzanalyse (ANOVA) & Kovarianzanalyse (ANCOVA)](https://saskiaotto.github.io/uham-bio-data-science-3/02-anova-II-and-ancova.html#/title-slide)
-- 03 [Multiple lineare Regression und Modellselektion](https://saskiaotto.github.io/uham-bio-data-science-3/03-multiple-regression.html#/title-slide)
+- 02 [2-faktorielle Varianzanalyse (ANOVA) mit verschachtelten Faktoren](https://saskiaotto.github.io/uham-bio-data-science-3/02-nested-anova.html#/title-slide)
+- 03 [Kovarianzanalyse (ANCOVA), multiple lineare Regression und Modellselektion](https://saskiaotto.github.io/uham-bio-data-science-3/03-ancova-multiple-regression.html#/title-slide)
 - 04 [Entscheidungsbäume für Regressions- und Klassifikationsverfahren](https://saskiaotto.github.io/uham-bio-data-science-3/04-trees.html#/title-slide)
 - 05 [Permutation und Resampling](https://saskiaotto.github.io/uham-bio-data-science-3/05-resampling-and-eda.html#/title-slide)
 - 06 [Konzepte des 'Open Science' & Einführung in RMarkdown und Quarto](https://saskiaotto.github.io/uham-bio-data-science-3/06-open-science.html#/title-slide)
