@@ -24,17 +24,16 @@ Diese GitHub Repository enthält die folgenden Kurs-spezifischen HTML-Vorlesungs
 
 - 01 [Komplexere Varianzanalyse und verbreitete Designtypen](https://saskiaotto.github.io/uham-bio-data-science-3/01-common-design-and-anova.html#/title-slide)
 - 02 [2-faktorielle Varianzanalyse (ANOVA) mit verschachtelten Faktoren](https://saskiaotto.github.io/uham-bio-data-science-3/02-nested-anova.html#/title-slide)
-- 03 [Kovarianzanalyse (ANCOVA), multiple lineare Regression und Modellselektion](https://saskiaotto.github.io/uham-bio-data-science-3/03-ancova-multiple-regression.html#/title-slide)
-- 04 [Entscheidungsbäume für Regressions- und Klassifikationsverfahren](https://saskiaotto.github.io/uham-bio-data-science-3/04-trees.html#/title-slide)
+- 03 [Multiple lineare Regression und Modellselektion](https://saskiaotto.github.io/uham-bio-data-science-3/03-multiple-regression.html#/title-slide)
+- 04 [Lineare Regressionsmodelle mit fixem Faktor: Kovarianzanalyse (ANCOVA)](https://saskiaotto.github.io/uham-bio-data-science-3/04-ancova.html#/title-slide)
 - 05 [Permutation und Resampling](https://saskiaotto.github.io/uham-bio-data-science-3/05-resampling-and-eda.html#/title-slide)
-- 06 [Konzepte des 'Open Science' & Einführung in RMarkdown und Quarto](https://saskiaotto.github.io/uham-bio-data-science-3/06-open-science.html#/title-slide)
 
 *-WEIHNACHTSFERIEN-*
 
 - 07 [Logistische Regression als binäres Klassifikationsverfahren](https://saskiaotto.github.io/uham-bio-data-science-3/07-logistic-regression.html#/title-slide)
 - 08 [Multivariate Verfahren: Clusteranalyse und Ordination](https://saskiaotto.github.io/uham-bio-data-science-3/08-multivariate-stats.html#/title-slide)
 - 09 [Datenbanken und Abgreifen von Sekundärdaten in R](https://saskiaotto.github.io/uham-bio-data-science-3/09-data-bases.html#1)
-- 10 [Fallbeispiele](https://saskiaotto.github.io/uham-bio-data-science-3/10-synthesis-examples.html#/title-slide)
+- 10 [Konzepte des 'Open Science' & Einführung in RMarkdown und Quarto](https://saskiaotto.github.io/uham-bio-data-science-3/10-open-science.html#/title-slide)
 
 
 ## Lizenz
