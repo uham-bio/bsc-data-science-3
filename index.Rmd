@@ -26,7 +26,7 @@ Diese GitHub Repository enthält die folgenden Kurs-spezifischen HTML-Vorlesungs
 - 02 [2-faktorielle Varianzanalyse (ANOVA) mit verschachtelten Faktoren](https://saskiaotto.github.io/uham-bio-data-science-3/02-nested-anova.html#/title-slide)
 - 03 [Multiple lineare Regression und Modellselektion](https://saskiaotto.github.io/uham-bio-data-science-3/03-multiple-regression.html#/title-slide)
 - 04 [Lineare Regressionsmodelle mit fixem Faktor: Kovarianzanalyse (ANCOVA)](https://saskiaotto.github.io/uham-bio-data-science-3/04-ancova.html#/title-slide)
-- 05 [Permutation und Resampling](https://saskiaotto.github.io/uham-bio-data-science-3/05-resampling-and-eda.html#/title-slide)
+- 05 [Permutation und Resampling](https://saskiaotto.github.io/uham-bio-data-science-3/05-resampling-techniques.html#/title-slide)
 
 *-WEIHNACHTSFERIEN-*
 
