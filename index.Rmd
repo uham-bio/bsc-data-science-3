@@ -30,8 +30,8 @@ Diese GitHub Repository enthält die folgenden Kurs-spezifischen HTML-Vorlesungs
 
 *-WEIHNACHTSFERIEN-*
 
-- 07 [Logistische Regression als binäres Klassifikationsverfahren](https://saskiaotto.github.io/uham-bio-data-science-3/07-logistic-regression.html#/title-slide)
-- 08 [Multivariate Verfahren: Clusteranalyse und Ordination](https://saskiaotto.github.io/uham-bio-data-science-3/08-multivariate-stats.html#/title-slide)
+- 07 [EDA, Data Mining und Supervised Learning](https://saskiaotto.github.io/uham-bio-data-science-3/07-supervised-learning.html#/title-slide)
+- 08 [Unsupervised Learning: Clusteranalyse und PCA](https://saskiaotto.github.io/uham-bio-data-science-3/08-unsupervised-learning.html#/title-slide)
 - 09 [Datenbanken und Abgreifen von Sekundärdaten in R](https://saskiaotto.github.io/uham-bio-data-science-3/09-data-bases.html#1)
 - 10 [Konzepte des 'Open Science' & Einführung in RMarkdown und Quarto](https://saskiaotto.github.io/uham-bio-data-science-3/10-open-science.html#/title-slide)
 
