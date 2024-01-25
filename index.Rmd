@@ -32,7 +32,7 @@ Diese GitHub Repository enthält die folgenden Kurs-spezifischen HTML-Vorlesungs
 
 - 07 [EDA, Data Mining und Supervised Learning](https://saskiaotto.github.io/uham-bio-data-science-3/07-supervised-learning.html#/title-slide)
 - 08 [Unsupervised Learning: Clusteranalyse und PCA](https://saskiaotto.github.io/uham-bio-data-science-3/08-unsupervised-learning.html#/title-slide)
-- 09 [Konzepte des 'Open Science' & Einführung in RMarkdown und Quarto](https://saskiaotto.github.io/uham-bio-data-science-3/9-open-science.html#/title-slide)
+- 09 [Konzepte des 'Open Science' & Einführung in RMarkdown und Quarto](https://saskiaotto.github.io/uham-bio-data-science-3/09-open-science.html#/title-slide)
 - 10 Fallstudien-Besprechung, Wiederholung, offene Fragen
 
 
