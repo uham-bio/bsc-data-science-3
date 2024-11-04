@@ -16,24 +16,21 @@ knitr::opts_chunk$set(echo = TRUE)
 Dies ist das Dritte von vier Modulen des neu in den Bachelor-Studiengängen des Fachbereichs **Biologie** der **Universität Hamburg** eingeführten Data Science Programms. In *Data Science 3* werden wir von dem experimentellen Design und der Analyse kleinerer Datensätze zur explorativen Analyse größerer Datensätze mittels statistischer Modellverfahren und dem sog. Data Mining übergehen.
 
 
-Modulverantwortliche: **Dr. Saskia Otto**
+Modulverantwortliche: **Dr. Saskia Otto**, **Dr. Monika Eberhard**
 
-## Vorlesungsfolien WiSe 2023-2024
+## Vorlesungsfolien WiSe 2024-2025
 
-Diese GitHub Repository enthält die folgenden Kurs-spezifischen HTML-Vorlesungsfolien (alle auf Deutsch):
-
-- 01 [Komplexere Varianzanalyse und verbreitete Designtypen](https://saskiaotto.github.io/uham-bio-data-science-3/01-common-design-and-anova.html#/title-slide)
-- 02 [2-faktorielle Varianzanalyse (ANOVA) mit verschachtelten Faktoren](https://saskiaotto.github.io/uham-bio-data-science-3/02-nested-anova.html#/title-slide)
-- 03 [Multiple lineare Regression und Modellselektion](https://saskiaotto.github.io/uham-bio-data-science-3/03-multiple-regression.html#/title-slide)
-- 04 [Lineare Regressionsmodelle mit fixem Faktor: Kovarianzanalyse (ANCOVA)](https://saskiaotto.github.io/uham-bio-data-science-3/04-ancova.html#/title-slide)
-- 05 [Resampling Techniken: Bootstrapping & Permutationstests](https://saskiaotto.github.io/uham-bio-data-science-3/05-resampling-techniques.html#/title-slide)
-
-*-WEIHNACHTSFERIEN-*
-
-- 07 [EDA, Data Mining und Supervised Learning](https://saskiaotto.github.io/uham-bio-data-science-3/07-supervised-learning.html#/title-slide)
-- 08 [Unsupervised Learning: Clusteranalyse und PCA](https://saskiaotto.github.io/uham-bio-data-science-3/08-unsupervised-learning.html#/title-slide)
-- 09 [Konzepte des 'Open Science' & Einführung in RMarkdown und Quarto](https://saskiaotto.github.io/uham-bio-data-science-3/09-open-science.html#/title-slide)
-- 10 Fallstudien-Besprechung, Wiederholung, offene Fragen
+- 01 [Moduleinführung: was ist EDA, DA, ML und SL?](https://saskiaotto.github.io/uham-bio-data-science-3/01-intro-eda-datamining-supervised-learning.html#/title-slide)
+- 02 [2-faktorielle Varianzanalyse (ANOVA) mit gekreuztem Design](https://saskiaotto.github.io/uham-bio-data-science-3/02-crossed-anova.html#/title-slide)
+- 03 [Lineare Regressionsmodelle mit fixem Faktor: Kovarianzanalyse (ANCOVA)](https://saskiaotto.github.io/uham-bio-data-science-3/03-ancova.html#/title-slide)
+- 04 [Lineare Gemischte Modelle (LME) und verschachteltes Design](https://saskiaotto.github.io/uham-bio-data-science-3/04-lme-nested-design.html#/title-slide)
+- 05 [Multiple lineare Regression](https://saskiaotto.github.io/uham-bio-data-science-3/05-multiple-regression.html#/title-slide)
+- 06 [Konzepte des 'Open Science' & Einführung in RMarkdown und Quarto](https://saskiaotto.github.io/uham-bio-data-science-3/06-open-science.html#/title-slide)
+- *-WEIHNACHTSFERIEN-*
+- 07 [Resampling Techniken: Bootstrapping & Permutationstests](https://saskiaotto.github.io/uham-bio-data-science-3/07-resampling-techniques.html#/title-slide)
+- 08 [Unsupervised Learning 1: Clusteranalyse](https://saskiaotto.github.io/uham-bio-data-science-3/08-unsupervised-learning-cluster.html#/title-slide)
+- 09 [Unsupervised Learning 2: Hauptkomponentenanalyse (PCA)](https://saskiaotto.github.io/uham-bio-data-science-3/09-unsupervised-learning-pca.html#/title-slide)
+- 10 Wiederholung, offene Fragen
 
 
 ## Lizenz
