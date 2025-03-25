@@ -13,7 +13,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Modulbeschreibung <img src="images/uhh_logo.png" align="right" width="150" style="margin-left: 20px"/>
 
-Dies ist das Dritte von vier Modulen des neu in den Bachelor-Studiengängen des Fachbereichs **Biologie** der **Universität Hamburg** eingeführten Data Science Programms. In *Data Science 3* werden wir von dem experimentellen Design und der Analyse kleinerer Datensätze zur explorativen Analyse größerer Datensätze mittels statistischer Modellverfahren und dem sog. Data Mining übergehen.
+Dies ist das dritte von vier Modulen des neu in den Bachelor-Studiengängen des Fachbereichs **Biologie** der **Universität Hamburg** eingeführten Data Science Programms. In *Data Science 3* werden wir von dem experimentellen Design und der Analyse kleinerer Datensätze zur explorativen Analyse größerer Datensätze mittels statistischer Modellverfahren und dem sog. Data Mining übergehen.
 
 
 Modulverantwortliche: **Dr. Saskia Otto**, **Dr. Monika Eberhard**
