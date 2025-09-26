@@ -8,7 +8,9 @@ introduced into the Bachelor Programs of the **Biology Department,
 University of Hamburg**. *Data Science 3* introduces students into the
 world of statistical modelling of typically secondary bigger data sets.
 
-Course creator and instructor: **Dr. Saskia Otto**
+Course creator: **Dr. Saskia Otto**
+
+Course instructor: **Dr. Saskia Otto**, **Dr. Monika Eberhard**
 
 ## This repository
 
